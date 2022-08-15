@@ -29,8 +29,8 @@ export default () => {
                 <section>
                     <ul>
                         <h2>{ lang.footer.useful }</h2>
-                        <li><a href="https://github.com/anonurl">{ lang.footer.source }</a></li>
-                        <li><a href="mailto:z3ox1s@protonmail.com">{ lang.footer.contact }</a></li>
+                        <li><a href="https://github.com/WandalTech/react-url-shorter">{ lang.footer.source }</a></li>
+                        <li><a href="mailto: wandal.tech@gmail.com">{ lang.footer.contact }</a></li>
                         <li><a href="https://flaticon.com">{ lang.footer.images }</a></li>
                         <li><a href="https://fonts.google.com/icons">{ lang.footer.icons }</a></li>
                     </ul>
