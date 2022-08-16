@@ -1,5 +1,5 @@
 <h1>Selamlar 👋</h1>
-Öncelikle merhaba, github profilimde yararlı bir kaç şey olması adına daha önceden yaptığım static ( html / css / js ) siteyi paylaşma kararı aldım, güle güle kullanın! Sadece izinsiz githubunuzda paylaşmayın yeter^^ <br>
+Öncelikle merhaba, github profilimde yararlı bir kaç şey olması adına daha önceden yaptığım logsuz url shorterı paylaşma kararı aldım, güle güle kullanın! Sadece izinsiz githubunuzda paylaşmayın yeter^^ <br>
 
 <a href="https://urlshorterdemo.wandal.tech">Live Demo</a>
 
